@@ -3,3 +3,6 @@ We present a deep learning model to successfully learn control policies from hig
 
 To run this code, you need to add the following environment into OpenAI Gym:
 https://github.com/ppaquette/gym-super-mario
+
+Video: 
+https://youtu.be/CX4pdlcjxPQ
